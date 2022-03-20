@@ -12,3 +12,9 @@ numero3 = 25
 numero4 = 15
 subtracao = numero3 - numero4
 print(subtracao)
+
+# Operador de Multiplicação
+numero5 = 5
+numero6 = 10
+multiplicado = numero5 * numero6
+print(multiplicado)
