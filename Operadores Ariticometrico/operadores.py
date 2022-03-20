@@ -18,3 +18,9 @@ numero5 = 5
 numero6 = 10
 multiplicado = numero5 * numero6
 print(multiplicado)
+
+#Operador de divisão
+numero7 = 20
+numero8 = 4
+divisao = numero7 / numero8
+print(divisao)
