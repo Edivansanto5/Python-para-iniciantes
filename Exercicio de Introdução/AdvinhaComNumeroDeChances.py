@@ -3,7 +3,9 @@
 '''
 numeroSecreto = 15
 totalDeTentivas = 5
+rodada = 1
 while(totalDeTentivas > 0): 
+    print('Tentativa {} de {}'.format(rodada,totalDeTentivas))
     palpite = int(input('Digite um numero para saber se vc sabe o numero Secreto: '))
     print('Voce Digitou ',palpite)
     
