@@ -22,5 +22,6 @@ while(totalDeTentivas > 0):
     elif(menor):
         print('Seu chute está ABAIXO do numero segreto ')
     totalDeTentivas = totalDeTentivas - 1
+    
 print('Fim de jogo')
     
