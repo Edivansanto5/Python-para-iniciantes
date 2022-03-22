@@ -1,4 +1,6 @@
-
+''''
+Atualizando o jogo
+'''
 repostaCerta = 34
 chute = int(input('Digite um numero para ver se vc acerta '))
 if(repostaCerta == chute):
