@@ -5,5 +5,5 @@ palavraSecreta = 'banana'
 acertou = False
 enforcou = False
 while(not acertou and not enforcou):
-    print('jogando')
+    chute = input('Digite uma letra')
     
