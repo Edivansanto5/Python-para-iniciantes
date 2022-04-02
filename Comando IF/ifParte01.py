@@ -6,4 +6,8 @@ if(media >= 7):{
 }
 if(media <= 6  ):{
     print('vc esta de prova final ',media)
-}   
+}
+else:
+
+    print('vc se lascou ',media)
+      
