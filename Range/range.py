@@ -3,3 +3,10 @@
 
 '''
 print('esplicando o conceito de range e de como ele funciona')
+
+seguencia = range(1,10)
+print(seguencia)
+
+for valor in range(1,10):
+    print(valor)
+print('fim de execusão')
