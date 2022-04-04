@@ -10,8 +10,10 @@ print(b)
 # fazendo a diferença 
 difereca = a-b # - diferença
 uniao = a | b # | união das lertras
-intersecao = a & b
+intersecao = a & b # & interseção das letras das palavras
+diferecaSimetrica = a ^ b # ^ diferençaSimetrica
 
 print(difereca)
 print(uniao)
 print(intersecao)
+print(diferecaSimetrica)
