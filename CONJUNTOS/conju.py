@@ -8,5 +8,8 @@ b = set('macaco')
 print(a)
 print(b)
 # fazendo a diferença 
-resul = a-b
-print(resul)
+difereca = a-b # - diferença
+uniao = a | b # | união das lertras
+
+print(difereca)
+print(uniao)
