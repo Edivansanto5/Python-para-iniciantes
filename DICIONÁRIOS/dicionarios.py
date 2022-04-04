@@ -5,5 +5,8 @@ qualquer	tipo	de	dado	do	Python.	Portanto,	os	dicionários	são	pares	de	chave-v
 
 nomes = {'nome': 'Maria','idade': 45, 'Sexo': 'Feminina'}
 
+# vamos adcionar mais um elemen no nosso dicionario
+nomes['Pais'] = 'Brasil'
 print(nomes['nome'])
+print(nomes)
 
