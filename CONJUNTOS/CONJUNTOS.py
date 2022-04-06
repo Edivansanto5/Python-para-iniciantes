@@ -14,3 +14,5 @@ print(type(list))
 lista = ['laranjas','macacos','leão','camelo','sabão de coco','laranjas','camelo']
 print(lista)
 print(type(lista))
+
+list = ['pera']
