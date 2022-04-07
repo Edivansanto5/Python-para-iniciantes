@@ -4,8 +4,8 @@
 '''
 print('esplicando o conceito de range e de como ele funciona')
 
-seguencia = range(1,3)
-print(seguencia)
+seguencia = range (1,3)
+print(range)
 
 
 
