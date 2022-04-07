@@ -29,5 +29,5 @@ print('Números Impares')
 for impar in (lista):
     if impar % 2 == 1:
         print(impar)
-print()
+print('espaços')
 
