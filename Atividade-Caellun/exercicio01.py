@@ -30,4 +30,5 @@ for impar in (lista):
     if impar % 2 == 1:
         print(impar)
 print('espaços')
+print('teste')
 
